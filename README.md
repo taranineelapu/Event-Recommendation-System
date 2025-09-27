@@ -1,1 +1,1 @@
-# event_recommendation_system
+# Event Recommendation System
