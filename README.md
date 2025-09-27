@@ -10,8 +10,8 @@ This project develops a hybrid Event Recommendation System using collaborative f
 * Evaluate hybrid and alternate models for improved recommendation performance.
 
 # Datasets:
-events.csv → Event attributes (110 features, 1.09 GB)
-train.csv → User-event interactions (6 features)
+* events.csv → Event attributes (110 features, 1.09 GB)
+* train.csv → User-event interactions (6 features)
 
 # Methodology
 * **Data Visualization:** Identified missing values, predictive, redundant, and irrelevant features.
